@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Axel/Documents/Unreal Projects/SwordGameTest/Content/Characters/UI_Character/UI_Character.uasset",
+				"C:/Users/Axel/Documents/Unreal Projects/SwordGameTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Axel/Documents/Unreal Projects/SwordGameTest/Content/Characters/UI_Character/UI_Dead.uasset"
+			]
+		}
+	]
+}
