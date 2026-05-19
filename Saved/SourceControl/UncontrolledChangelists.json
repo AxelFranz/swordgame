@@ -6,8 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Axel/Documents/Unreal Projects/SwordGameTest/Content/Characters/UI_Character/UI_Character.uasset",
-				"C:/Users/Axel/Documents/Unreal Projects/SwordGameTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Axel/Documents/Unreal Projects/SwordGameTest/Content/Characters/UI_Character/UI_Dead.uasset"
+				"C:/Users/Axel/Documents/Unreal Projects/SwordGameTest/Content/Characters/UI_Character/UI_Dead.uasset",
+				"C:/Users/Axel/Documents/Unreal Projects/SwordGameTest/Content/Blueprints/MainCharacter/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Axel/Documents/Unreal Projects/SwordGameTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
