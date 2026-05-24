@@ -19,5 +19,8 @@
 			"Name": "HttpBlueprint",
 			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"Plugins"
 	]
 }
